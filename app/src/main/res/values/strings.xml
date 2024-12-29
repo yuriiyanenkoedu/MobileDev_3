@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Lab3</string>
+
+    <string-array name="mFirstStr">
+        <item>User</item>
+        <item>Some User</item>
+        <item>Name of User</item>
+        <item>IDK User</item>
+        <item>Meh</item>
+        <item>Stop</item>
+    </string-array>
+
+    <string-array name="mSecondStr">
+        <item>Amazing users</item>
+        <item>Good users</item>
+        <item>Meh users</item>
+        <item>users</item>
+        <item>Bad users</item>
+        <item>Chill users</item>
+    </string-array>
+
+    <string-array name="mADStr">
+        <item>MONEY</item>
+        <item>FREE</item>
+        <item>ITEM</item>
+    </string-array>
+
+</resources>
